@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Capstone Blog</title>
+    <link>http://capstone.speers.codes/posts/</link>
+    <description>Recent content in Posts on Capstone Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://capstone.speers.codes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 1</title>
+      <link>http://capstone.speers.codes/posts/week1/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://capstone.speers.codes/posts/week1/</guid>
+      <description>&lt;h1 id=&#34;reflection&#34;&gt;Reflection:&lt;/h1&gt;&#xA;&lt;p&gt;This week I started on my book, “Practical Malware Analysis,” a book about taking apart malware to find out how they work, a process called reverse engineering. The book takes a focus on malware as malware programs are actually very small and therefore can be very easy to reverse engineer. Another reason malware is a good starting point is that many malwares will obfuscate their code, making it harder to reverse engineer. Being able to identify and handle obfuscated code is very important and a useful skill to learn. Lastly, as a potential cyber security specialist, it may be my job to reverse engineer a virus in order to understand the scope of the attack, as well as how to stop and remediate the attack.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Week 2</title>
+      <link>http://capstone.speers.codes/posts/week2/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://capstone.speers.codes/posts/week2/</guid>
+      <description>&lt;h1 id=&#34;reflection&#34;&gt;Reflection:&lt;/h1&gt;&#xA;&lt;p&gt;I have continued reading “Practical Malware Analysis” and have started the hands-on practice that the book provides, which I was very excited to start working on. The book provides a lot of example programs to pick apart with the newfound knowledge it teaches in each chapter. It was quite difficult to figure out how to download and use these code segments because Windows Defender was (rightfully) detecting multiple pieces of malware when downloading the zip file with all the samples for the labs in the book. Every time I downloaded the zip file, it would get deleted by Windows and gave about 20 “high security risks.” I fixed this by allowing each individual file in Windows Defender and temporarily disabling the real-time protection when I open the files with a disassembler.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
