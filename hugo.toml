@@ -1,0 +1,29 @@
+baseURL = 'http://capstone.speers.codes/'
+languageCode = 'en-us'
+title = 'Capstone Blog'
+theme = "hugo-theme-m10c"
+
+[pagination]
+  pagerSize = 8
+
+[menu]
+  [[menu.main]]
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/"
+    weight = 1
+#  [[menu.main]]
+#    identifier = "media"
+#    name = "Media"
+#    url = "/media/"
+#    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params]
+  author = "Lucas Speers"
+  description = "My cybersecurity capstone blog"
+  menu_item_separator = " - "
